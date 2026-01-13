@@ -1,0 +1,39 @@
+@startwbs
+readonly
+title Struktur Menu - Public/Pengguna
+
+* Website Utama (Public)
+** Home
+*** Banner Promo
+*** Portofolio Highlight
+** Tentang Kami (About Us)
+*** Sejarah Perusahaan
+*** Visi & Misi
+** Portofolio
+*** Galeri Foto/Video
+*** Detail Karya
+*** Filter Kategori
+** Layanan (Packages)
+*** Daftar Paket
+*** Detail Fasilitas
+*** Cek Harga
+** Pemesanan (Booking)
+*** Form Booking Jadwal
+*** Cek Ketersediaan
+*** Upload Bukti Bayar
+** Testimoni
+*** Galeri Testimoni Pelanggan
+*** Tulis Ulasan Baru
+*** Lihat Detail Testimoni
+** Kontak
+*** Chat WhatsApp
+*** Lokasi Google Maps
+
+header
+Sitemap Public Area
+endheader
+
+center footer
+Berdasarkan Analisis Use Case & Class Diagram
+end footer
+@endwbs
